@@ -1,8 +1,14 @@
 -----------------------
 # README
 -----------------------
-Browny is a one page bootstrap 3 based resume/portfolio template.
 
+Hello,
+thank you for taking the time to review my portfolio and consider my application, I hope it is memoriable
+
+
+
+
+Browny is a one page bootstrap 3 based resume/portfolio template.
 
 Template Info:
 -----------------------
